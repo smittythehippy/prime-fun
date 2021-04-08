@@ -16,7 +16,7 @@ npm install prime-fun
 At the top of your file: 
 
 ```javascript
-import primes from "prime-fun";
+import primes from 'prime-fun';
 ```
 
 ## Methods 
